@@ -1,4 +1,4 @@
-# Anti-IP-Grabber-Hosts
+# ProtectorHosts
 Block known and potential IP grabber/logger domains with the hosts file.
 
 ```sh
