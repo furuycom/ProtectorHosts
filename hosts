@@ -1,32 +1,32 @@
+# Homepage: https://github.com/fur/ProtectorHosts
 # Title: Protector Hosts
-# Homepage: https://github.com/furkun/ProtectorHosts
+# Total number of network filters: 977
 # Updated: 09/06/2021 (dd/mm/yyyy)
-# Total number of network filters: 967
 
 0.0.0.0 00689.net
 0.0.0.0 02ip.ru
 0.0.0.0 0519.org
-0.0.0.0 1111oe.com
-0.0.0.0 190-2-131-201.hosted-by-worldstream.net
-0.0.0.0 20gbfree.club
-0.0.0.0 2222yo.com
 0.0.0.0 2no.co
 0.0.0.0 3a71q7jt.com
 0.0.0.0 3newsletter.com
 0.0.0.0 4bikebg.com
 0.0.0.0 5.gp
-0.0.0.0 65nq.com
 0.0.0.0 6umux.top
 0.0.0.0 7.ly
-0.0.0.0 760tv.com
 0.0.0.0 7gzn.com
 0.0.0.0 8-crm.com
-0.0.0.0 8955567.top
 0.0.0.0 8forum-bahis.com
-0.0.0.0 95277h.com
-0.0.0.0 991z7fol.com
-0.0.0.0 99skk.com
 0.0.0.0 9gzo.com
+0.0.0.0 20gbfree.club
+0.0.0.0 65nq.com
+0.0.0.0 99skk.com
+0.0.0.0 190-2-131-201.hosted-by-worldstream.net
+0.0.0.0 760tv.com
+0.0.0.0 991z7fol.com
+0.0.0.0 1111oe.com
+0.0.0.0 2222yo.com
+0.0.0.0 95277h.com
+0.0.0.0 8955567.top
 0.0.0.0 aadaysh.top
 0.0.0.0 absvau.top
 0.0.0.0 accguitar.com
@@ -61,6 +61,8 @@
 0.0.0.0 antennalaminates.com
 0.0.0.0 antiquesilversouvenirspoons.com
 0.0.0.0 apartmentsbaska.com
+0.0.0.0 api6.ipify.org
+0.0.0.0 api64.ipify.org
 0.0.0.0 api.grabify.link
 0.0.0.0 api.hostip.info
 0.0.0.0 api.ipdata.co
@@ -68,8 +70,7 @@
 0.0.0.0 api.ipify.org
 0.0.0.0 api.ipinfodb.com
 0.0.0.0 api.ipregistry.co
-0.0.0.0 api6.ipify.org
-0.0.0.0 api64.ipify.org
+0.0.0.0 api.opencagedata.com
 0.0.0.0 apolloniadentalllc.com
 0.0.0.0 applebeesrs.com.br
 0.0.0.0 applicationshopnetgroup.site
@@ -172,6 +173,7 @@
 0.0.0.0 cgart.ir
 0.0.0.0 chainbit.club
 0.0.0.0 cheapdomains.science
+0.0.0.0 checkip.amazonaws.com
 0.0.0.0 chiangmaihotels.co
 0.0.0.0 chicagocutsteakhouse.com
 0.0.0.0 chinamajestic.com.au
@@ -238,6 +240,7 @@
 0.0.0.0 digitalchallenger.com
 0.0.0.0 digitallbs.com
 0.0.0.0 diligenceinternational.com
+0.0.0.0 discord.kim
 0.0.0.0 discordcrypt.xyz
 0.0.0.0 discörd.com
 0.0.0.0 disçordapp.com
@@ -323,6 +326,7 @@
 0.0.0.0 freebooter.pro
 0.0.0.0 freegeoip.net
 0.0.0.0 freegiftcards.co
+0.0.0.0 freegiftcards.com
 0.0.0.0 freepdfbookdownload.tk
 0.0.0.0 freepornphotos.club
 0.0.0.0 fuglekos.com
@@ -337,6 +341,7 @@
 0.0.0.0 gaming-at-my.best
 0.0.0.0 gamingfun.me
 0.0.0.0 garcinia-six.com
+0.0.0.0 gaymers.ax
 0.0.0.0 gedichten-voor-iedereen.com
 0.0.0.0 geobug.net
 0.0.0.0 germanyenergy.online
@@ -375,6 +380,7 @@
 0.0.0.0 gyazo.nl
 0.0.0.0 gyazoo.ga
 0.0.0.0 gyazoo.xyz
+0.0.0.0 gyazos.com
 0.0.0.0 hackernews.online
 0.0.0.0 hackforu.ms
 0.0.0.0 hackfȯrums.com
@@ -404,15 +410,17 @@
 0.0.0.0 ht1.in
 0.0.0.0 httbuy.com
 0.0.0.0 hwhssc.cn
+0.0.0.0 i56ad.site
 0.0.0.0 i.gyazos.com
 0.0.0.0 i.imger.me
 0.0.0.0 i.imgur.com.de
-0.0.0.0 i56ad.site
 0.0.0.0 iany.pl
+0.0.0.0 icanhazip.com
 0.0.0.0 ikwyd.com
 0.0.0.0 imageshack.ml
 0.0.0.0 imageshare.best
 0.0.0.0 imger.me
+0.0.0.0 imgur.com.de
 0.0.0.0 imgurl.us
 0.0.0.0 imgúr.com
 0.0.0.0 impactlc.net
@@ -424,6 +432,7 @@
 0.0.0.0 inspiring-sustainability.com
 0.0.0.0 interventionspecialists.com
 0.0.0.0 investorinthefamilyservices.com
+0.0.0.0 ip-api.com
 0.0.0.0 ip-grabber.com
 0.0.0.0 ip-grabber.sfbaywhalewatching.com
 0.0.0.0 ip-tracker.org
@@ -437,6 +446,7 @@
 0.0.0.0 ipgrabber.dalenryder.com
 0.0.0.0 ipgrabber.ru
 0.0.0.0 ipgraber.ru
+0.0.0.0 ipinfo.io
 0.0.0.0 iplis.org02ip.ru
 0.0.0.0 iplis.ru
 0.0.0.0 iplist.ru
@@ -486,8 +496,8 @@
 0.0.0.0 knife-born.com
 0.0.0.0 knullmessengerkvinnor.xyz
 0.0.0.0 kreatemore.com
-0.0.0.0 l-imgur.pl
 0.0.0.0 l2.io
+0.0.0.0 l-imgur.pl
 0.0.0.0 laenergiadeltrigo.com
 0.0.0.0 landes-terroir.com
 0.0.0.0 lappas.com.gr
@@ -595,6 +605,7 @@
 0.0.0.0 ntube.party
 0.0.0.0 nubilespics.com
 0.0.0.0 nutscdn.com
+0.0.0.0 o2ip.ru
 0.0.0.0 oiawh.top
 0.0.0.0 olaris.com.au
 0.0.0.0 omentribok.pro
@@ -609,6 +620,7 @@
 0.0.0.0 otuin.com
 0.0.0.0 ouo.io
 0.0.0.0 outandappear.win
+0.0.0.0 over-blog.com
 0.0.0.0 ovrmxaqfashion.xyz
 0.0.0.0 oxyo2.com
 0.0.0.0 oxystress.eu
@@ -652,6 +664,7 @@
 0.0.0.0 private-alert.com
 0.0.0.0 privatexmpp.me
 0.0.0.0 prizenotice28.us
+0.0.0.0 prntcrs.com
 0.0.0.0 prntsc.cf
 0.0.0.0 proficiently-soft.club
 0.0.0.0 profilebakanlar.com
@@ -662,6 +675,7 @@
 0.0.0.0 progresskarate.com
 0.0.0.0 pronosparadise.com
 0.0.0.0 proxyfill.co
+0.0.0.0 ps3cfw.co
 0.0.0.0 ps3cfw.com
 0.0.0.0 publicwiki.m
 0.0.0.0 publicwiki.me
@@ -865,6 +879,8 @@
 0.0.0.0 urlz.fr
 0.0.0.0 uscfootball.us
 0.0.0.0 uu8002.club
+0.0.0.0 v4.ident.me
+0.0.0.0 v6.ident.me
 0.0.0.0 vanillaicebook.com
 0.0.0.0 varellamotos.com.br
 0.0.0.0 vbivaia.site
@@ -908,12 +924,6 @@
 0.0.0.0 wodemind.net
 0.0.0.0 wszgsshyjh.com
 0.0.0.0 wtgqhq.icu
-0.0.0.0 www.bvog.com
-0.0.0.0 www.fuglekos.com
-0.0.0.0 www.hondachat.com
-0.0.0.0 www.ps3cfw.com
-0.0.0.0 www.whatstheirip.com
-0.0.0.0 www.youramonkey.com
 0.0.0.0 wxjdr.com
 0.0.0.0 wyantswalk.net
 0.0.0.0 wyvernware.com
