@@ -9,4 +9,5 @@ https://github.com/furkun/ProtectorHosts/raw/main/hosts
 
 ## What Is Included?
 - IP grabber & logger protection
+- IP address lookup
 - IP GeoIP API protection
