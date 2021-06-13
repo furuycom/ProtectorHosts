@@ -1,7 +1,7 @@
 # Homepage: https://github.com/furkun/ProtectorHosts
 # Title: Protector Hosts
-# Total number of network filters: 977
-# Updated: 09/06/2021 (dd/mm/yyyy)
+# Total number of network filters: 1014
+# Updated: 09/06/2021 (dd/mm/yyyy
 
 0.0.0.0 00689.net
 0.0.0.0 02ip.ru
@@ -61,17 +61,42 @@
 0.0.0.0 antennalaminates.com
 0.0.0.0 antiquesilversouvenirspoons.com
 0.0.0.0 apartmentsbaska.com
+0.0.0.0 api4.my-ip.io
 0.0.0.0 api6.ipify.org
+0.0.0.0 api6.my-ip.io
 0.0.0.0 api64.ipify.org
+0.0.0.0 api.bigdatacloud.net
+0.0.0.0 api.blocklist.de
+0.0.0.0 api.db-ip.com
+0.0.0.0 api.domaintools.com
+0.0.0.0 api.fraudlabspro.com
+0.0.0.0 api.geoapify.com
+0.0.0.0 api.getgeoapi.com
 0.0.0.0 api.grabify.link
 0.0.0.0 api.hostip.info
+0.0.0.0 api.ip2location.com
+0.0.0.0 api.ip2proxy.com
+0.0.0.0 api.ipapi.com
+0.0.0.0 api.ipblacklist.ai
 0.0.0.0 api.ipdata.co
 0.0.0.0 api.ipgeolocation.io
+0.0.0.0 api.ipgeolocationapi.com
 0.0.0.0 api.ipify.org
 0.0.0.0 api.ipinfodb.com
 0.0.0.0 api.ipregistry.co
+0.0.0.0 api.ipsquads.com
+0.0.0.0 api.ipstack.com
+0.0.0.0 api.ithenticate.com
+0.0.0.0 api.midtrans.com
+0.0.0.0 api.monapi.io
+0.0.0.0 api.my-ip.io
+0.0.0.0 api.na.bambora.com
 0.0.0.0 api.opencagedata.com
+0.0.0.0 api.weatherapi.com
+0.0.0.0 api.weatherbit.io
 0.0.0.0 apolloniadentalllc.com
+0.0.0.0 app.ipfind.io
+0.0.0.0 app.midtrans.com
 0.0.0.0 applebeesrs.com.br
 0.0.0.0 applicationshopnetgroup.site
 0.0.0.0 apstaing.com
@@ -324,6 +349,7 @@
 0.0.0.0 frame.hosting
 0.0.0.0 freeanonymous.host
 0.0.0.0 freebooter.pro
+0.0.0.0 freegeoip.app
 0.0.0.0 freegeoip.net
 0.0.0.0 freegiftcards.co
 0.0.0.0 freegiftcards.com
@@ -344,6 +370,7 @@
 0.0.0.0 gaymers.ax
 0.0.0.0 gedichten-voor-iedereen.com
 0.0.0.0 geobug.net
+0.0.0.0 geolite.info
 0.0.0.0 germanyenergy.online
 0.0.0.0 gestreifthelle.site
 0.0.0.0 getforhealth.store
@@ -433,6 +460,7 @@
 0.0.0.0 interventionspecialists.com
 0.0.0.0 investorinthefamilyservices.com
 0.0.0.0 ip-api.com
+0.0.0.0 ip-geolocation.whoisxmlapi.com
 0.0.0.0 ip-grabber.com
 0.0.0.0 ip-grabber.sfbaywhalewatching.com
 0.0.0.0 ip-tracker.org
@@ -442,6 +470,8 @@
 0.0.0.0 ipapi.co
 0.0.0.0 ipc360.org
 0.0.0.0 ipddoser.xyz
+0.0.0.0 ipgeolocation.abstractapi.com
+0.0.0.0 ipgeolocation.io
 0.0.0.0 ipgrab.org
 0.0.0.0 ipgrabber.dalenryder.com
 0.0.0.0 ipgrabber.ru
@@ -459,6 +489,7 @@
 0.0.0.0 ipsnatcher.com
 0.0.0.0 ipstack.com
 0.0.0.0 ipstresser.com
+0.0.0.0 ipwhois.app
 0.0.0.0 isitforreal.club
 0.0.0.0 islaminfo.fr
 0.0.0.0 jackmedway.co.uk
@@ -691,6 +722,7 @@
 0.0.0.0 r1p.pw
 0.0.0.0 radiosinus.se
 0.0.0.0 rajskajahorina.com
+0.0.0.0 rapidapi.com
 0.0.0.0 rawactf.xyz
 0.0.0.0 rb-rrr.com
 0.0.0.0 realbridge.xyz
@@ -828,9 +860,11 @@
 0.0.0.0 techniche.org.in
 0.0.0.0 technologypickup.us
 0.0.0.0 teknist.xyz
+0.0.0.0 telize.com
 0.0.0.0 tentcity4.info
 0.0.0.0 terraclicks.com
 0.0.0.0 thadinnoo.co
+0.0.0.0 theapicompany.com
 0.0.0.0 thebubbleprocess.com
 0.0.0.0 thegenerouschef.com
 0.0.0.0 theguitareffects.com
@@ -910,6 +944,7 @@
 0.0.0.0 war1418.com
 0.0.0.0 watches-my.stream
 0.0.0.0 watchgallery.pro
+0.0.0.0 web.na.bambora.com
 0.0.0.0 webpanel.space
 0.0.0.0 webprofile.me
 0.0.0.0 webresolver.nl
@@ -917,7 +952,9 @@
 0.0.0.0 weightedcu.be
 0.0.0.0 wetouth.bid
 0.0.0.0 wfear.com
+0.0.0.0 whatismyipaddr.wpengine.com
 0.0.0.0 whatstheirip.com
+0.0.0.0 whoisxmlapi.com
 0.0.0.0 williepickensjazz.com
 0.0.0.0 winjudi77.biz
 0.0.0.0 wm-reviews.ca
