@@ -9,4 +9,4 @@ https://github.com/furkun/ProtectorHosts/raw/main/hosts
 
 ## What Is Included?
 - Block known IP grabber & IP logger
-- Block IP Geolocation API (Does not hide your geoIP data)
+- Block IP Geolocation API (Does not hide your geoIP data because they work server side)
