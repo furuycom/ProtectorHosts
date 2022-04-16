@@ -2,7 +2,7 @@
 Protect your IP address.
 
 ```sh
-https://github.com/furkun/ProtectorHosts/raw/main/hosts
+https://raw.githubusercontent.com/furkun/ProtectorHosts/main/hosts
 ```
 
 [FilterLists.com](https://filterlists.com/lists/anti-ip-grabber-hosts)
