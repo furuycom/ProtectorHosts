@@ -1,5 +1,5 @@
 # Title: Protector Hosts
-# Updated: Aug-02-2022
+# Updated: Nov-10-2022
 # Homepage: https://github.com/furkun/ProtectorHosts
 # License: https://github.com/furkun/ProtectorHosts/blob/main/LICENSE
 # Contribute: Create an issue at https://github.com/furkun/ProtectorHosts/issues
@@ -7,27 +7,27 @@
 0.0.0.0 00689.net
 0.0.0.0 02ip.ru
 0.0.0.0 0519.org
+0.0.0.0 1111oe.com
+0.0.0.0 190-2-131-201.hosted-by-worldstream.net
+0.0.0.0 20gbfree.club
+0.0.0.0 2222yo.com
 0.0.0.0 2no.co
 0.0.0.0 3a71q7jt.com
 0.0.0.0 3newsletter.com
 0.0.0.0 4bikebg.com
 0.0.0.0 5.gp
+0.0.0.0 65nq.com
 0.0.0.0 6umux.top
 0.0.0.0 7.ly
+0.0.0.0 760tv.com
 0.0.0.0 7gzn.com
 0.0.0.0 8-crm.com
-0.0.0.0 8forum-bahis.com
-0.0.0.0 9gzo.com
-0.0.0.0 20gbfree.club
-0.0.0.0 65nq.com
-0.0.0.0 99skk.com
-0.0.0.0 190-2-131-201.hosted-by-worldstream.net
-0.0.0.0 760tv.com
-0.0.0.0 991z7fol.com
-0.0.0.0 1111oe.com
-0.0.0.0 2222yo.com
-0.0.0.0 95277h.com
 0.0.0.0 8955567.top
+0.0.0.0 8forum-bahis.com
+0.0.0.0 95277h.com
+0.0.0.0 991z7fol.com
+0.0.0.0 99skk.com
+0.0.0.0 9gzo.com
 0.0.0.0 aadaysh.top
 0.0.0.0 absvau.top
 0.0.0.0 accguitar.com
@@ -92,7 +92,6 @@
 0.0.0.0 b-coresalon.com
 0.0.0.0 backcountrywater.info
 0.0.0.0 bandr.com.ua
-0.0.0.0 xn--battl-b0a.net
 0.0.0.0 bauldenotas.com
 0.0.0.0 bbcbloggers.co.uk
 0.0.0.0 bbcnews.today
@@ -236,9 +235,6 @@
 0.0.0.0 diligenceinternational.com
 0.0.0.0 discord.kim
 0.0.0.0 discordcrypt.xyz
-0.0.0.0 xn--discrd-zxa.com
-0.0.0.0 xn--disordapp-s3a.com
-0.0.0.0 xn--disordapp-2eb.com
 0.0.0.0 divorcesols.co.uk
 0.0.0.0 djturntableparts.site
 0.0.0.0 dlzqjsza.vip
@@ -374,8 +370,6 @@
 0.0.0.0 gyazos.com
 0.0.0.0 hackernews.online
 0.0.0.0 hackforu.ms
-0.0.0.0 xn--hackfrums-ksd.com
-0.0.0.0 xn--hackfrums-ksd.net
 0.0.0.0 hackmylife.de
 0.0.0.0 hamarisafalta.com
 0.0.0.0 haveadentalimplantsshop.com
@@ -401,10 +395,10 @@
 0.0.0.0 ht1.in
 0.0.0.0 httbuy.com
 0.0.0.0 hwhssc.cn
-0.0.0.0 i56ad.site
 0.0.0.0 i.gyazos.com
 0.0.0.0 i.imger.me
 0.0.0.0 i.imgur.com.de
+0.0.0.0 i56ad.site
 0.0.0.0 iany.pl
 0.0.0.0 icanhazip.com
 0.0.0.0 ikwyd.com
@@ -413,7 +407,6 @@
 0.0.0.0 imger.me
 0.0.0.0 imgur.com.de
 0.0.0.0 imgurl.us
-0.0.0.0 xn--imgr-sra.com
 0.0.0.0 impactlc.net
 0.0.0.0 impactprintingdenver.com
 0.0.0.0 importadosoriginaisfx.tk
@@ -424,6 +417,8 @@
 0.0.0.0 inspiring-sustainability.com
 0.0.0.0 interventionspecialists.com
 0.0.0.0 investorinthefamilyservices.com
+0.0.0.0 ip-api.com
+0.0.0.0 ip-api.io
 0.0.0.0 ip-grabber.com
 0.0.0.0 ip-grabber.sfbaywhalewatching.com
 0.0.0.0 ip-logger.jbb3333.com
@@ -484,8 +479,8 @@
 0.0.0.0 knife-born.com
 0.0.0.0 knullmessengerkvinnor.xyz
 0.0.0.0 kreatemore.com
-0.0.0.0 l2.io
 0.0.0.0 l-imgur.pl
+0.0.0.0 l2.io
 0.0.0.0 laenergiadeltrigo.com
 0.0.0.0 landes-terroir.com
 0.0.0.0 lappas.com.gr
@@ -546,7 +541,6 @@
 0.0.0.0 mid-coast-tire.com
 0.0.0.0 midagihead.eu
 0.0.0.0 minecraft-skins.xyz
-0.0.0.0 xn--minecrft-5za.com
 0.0.0.0 minhmui.com
 0.0.0.0 miskant.co
 0.0.0.0 mjzssc.cn
@@ -570,6 +564,7 @@
 0.0.0.0 myorange.co
 0.0.0.0 myown42.com
 0.0.0.0 mypic.icu
+0.0.0.0 myprivate.pics
 0.0.0.0 mytubefire.com
 0.0.0.0 mzwhx.com
 0.0.0.0 nailkitofficial.com
@@ -580,6 +575,7 @@
 0.0.0.0 naturallyearthfriendly.com
 0.0.0.0 neasyset.icu
 0.0.0.0 nectra-skincare.com
+0.0.0.0 nekobot.xyz
 0.0.0.0 nethrie.com
 0.0.0.0 networkstresser.com
 0.0.0.0 nextierapparel.com
@@ -713,7 +709,6 @@
 0.0.0.0 rtyoue.info
 0.0.0.0 runikeipajpsales.party
 0.0.0.0 russianporn.tv
-0.0.0.0 xn--rddt-lpa0a.com
 0.0.0.0 saadilent.ir
 0.0.0.0 safeemergency.com
 0.0.0.0 salixnebac.club
@@ -749,7 +744,6 @@
 0.0.0.0 shorte.st
 0.0.0.0 shrekis.life
 0.0.0.0 shvana.com
-0.0.0.0 xn--shrt-6qa.co
 0.0.0.0 signsandwondersonline.com
 0.0.0.0 simonbutcherphotography.com
 0.0.0.0 sisterscountrystore.com
@@ -775,7 +769,6 @@
 0.0.0.0 spiralsense.jp
 0.0.0.0 spoofing.host
 0.0.0.0 spottyfly.com
-0.0.0.0 xn--sptify-xxa.com
 0.0.0.0 srt.icu
 0.0.0.0 ssc8n2.icu
 0.0.0.0 ssqld5widz.xyz
@@ -805,9 +798,6 @@
 0.0.0.0 supnim.com
 0.0.0.0 sweethomeclean.online
 0.0.0.0 synstress.net
-0.0.0.0 xn--srahah-bua.eu
-0.0.0.0 xn--srahah-bua.pl
-0.0.0.0 xn--sype-l0a.com
 0.0.0.0 t-safe.nl
 0.0.0.0 tailorwood.it
 0.0.0.0 taveo.net
@@ -863,7 +853,6 @@
 0.0.0.0 tvshare.co
 0.0.0.0 twitch-stats.stream
 0.0.0.0 twitte.ga
-0.0.0.0 xn--twiter-rkb.com
 0.0.0.0 txhomeinsurance.com
 0.0.0.0 ub456.com
 0.0.0.0 unigraphix.co
@@ -929,10 +918,32 @@
 0.0.0.0 xda-developers.us
 0.0.0.0 xgfgt.cn
 0.0.0.0 xmzbsjgv.icu
+0.0.0.0 xn--battl-b0a.net
 0.0.0.0 xn--discrd-zxa.com
+0.0.0.0 xn--discrd-zxa.com
+0.0.0.0 xn--disordapp-2eb.com
 0.0.0.0 xn--disordapp-s3a.com
+0.0.0.0 xn--disordapp-s3a.com
+0.0.0.0 xn--gur-mma9668a.com
+0.0.0.0 xn--hackfrums-ksd.com
+0.0.0.0 xn--hackfrums-ksd.net
+0.0.0.0 xn--imgr-sra.com
 0.0.0.0 xn--minecrft-5za.com
+0.0.0.0 xn--minecrft-5za.com
+0.0.0.0 xn--oole-9wao.com
+0.0.0.0 xn--rddt-lpa0a.com
+0.0.0.0 xn--shrt-6qa.co
+0.0.0.0 xn--sptify-xxa.com
+0.0.0.0 xn--srahah-bua.eu
+0.0.0.0 xn--srahah-bua.pl
+0.0.0.0 xn--sype-l0a.com
+0.0.0.0 xn--twiter-rkb.com
+0.0.0.0 xn--yotbe-lvab.co
+0.0.0.0 xn--yotbe-lvab.com
 0.0.0.0 xn--yotu-1ra.be
+0.0.0.0 xn--yotu-1ra.be
+0.0.0.0 xn--yutube-3wa.com
+0.0.0.0 xn--yutube-iqc.com
 0.0.0.0 xn--yutube-iqc.com
 0.0.0.0 xn--zqsu8k5y0b.com
 0.0.0.0 xnxx4porn.com
@@ -957,22 +968,14 @@
 0.0.0.0 yourskipper.co.uk
 0.0.0.0 youshouldclick.us
 0.0.0.0 youutube.gq
-0.0.0.0 xn--yotu-1ra.be
-0.0.0.0 xn--yotbe-lvab.co
-0.0.0.0 xn--yotbe-lvab.com
 0.0.0.0 ythingy.com
 0.0.0.0 ytwrf4a.win
 0.0.0.0 yukongoldextremeapp.com
 0.0.0.0 yw-cd.com
 0.0.0.0 yymoli.net
-0.0.0.0 xn--yutube-3wa.com
-0.0.0.0 xn--yutube-iqc.com
 0.0.0.0 z3uu.com
 0.0.0.0 zjrbc.cn
 0.0.0.0 zonahd.org
 0.0.0.0 zoneoccupee.com
 0.0.0.0 zzb.bz
 0.0.0.0 zzssfc.tk
-0.0.0.0 xn--gur-mma9668a.com
-0.0.0.0 xn--oole-9wao.com
-0.0.0.0 myprivate.pics
