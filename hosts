@@ -1,5 +1,5 @@
 # Title: Protector Hosts
-# Updated: Apr-25-2023
+# Updated: May-18-2023
 # Homepage: https://github.com/furkun/ProtectorHosts
 # License: https://github.com/furkun/ProtectorHosts/blob/main/LICENSE
 # Contribute: Create an issue at https://github.com/furkun/ProtectorHosts/issues
@@ -1004,3 +1004,17 @@
 0.0.0.0 screenshare.pics
 0.0.0.0 noodshare.pics
 0.0.0.0 cheapcinema.club
+0.0.0.0 httpbin.org
+0.0.0.0 console.vip
+0.0.0.0 ipdata.co
+0.0.0.0 whatismyipaddress.com
+0.0.0.0 ifconfig.me
+0.0.0.0 ipify.org
+0.0.0.0 ipapi.co
+0.0.0.0 xtekky.com
+0.0.0.0 ipgeolocation.io
+0.0.0.0 statsnode.com
+0.0.0.0 bytelink-ip.web.app
+0.0.0.0 xnajrak-grabber.replit.com
+0.0.0.0 geoplugin.net
+0.0.0.0 jsonip.com
