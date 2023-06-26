@@ -1,4 +1,4 @@
-# Protector Hosts
+# 🛡️ Protector Hosts
 Protect your IP address by blocking IP grabber and IP logger domains.
 
 ```sh
